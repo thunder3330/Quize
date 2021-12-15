@@ -1,1 +1,1 @@
-# Quize
+# Quiz_App
